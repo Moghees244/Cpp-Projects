@@ -375,5 +375,5 @@ string convertToLowerCase(string query)
 
 void Credits()
 {
-    cout << "\tCredits\nMoghees Ahmad\t20F-0244\n\n";
+    cout << "\tCredits\nMoghees Ahmad\n\n";
 }
